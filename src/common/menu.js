@@ -23,6 +23,26 @@ const menuData = [
     ],
   },
   {
+    name: '文章管理',
+    icon: 'posts',
+    path: 'posts',
+    children: [
+      {
+        name: '文章列表',
+        path: 'list',
+      },
+      {
+        name: '分步表单',
+        path: 'step-form',
+      },
+      {
+        name: '高级表单',
+        authority: 'admin',
+        path: 'advanced-form',
+      },
+    ],
+  },
+  {
     name: '表单页',
     icon: 'form',
     path: 'form',
