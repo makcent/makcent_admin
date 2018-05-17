@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 English | [简体中文](./README.zh-CN.md)
 
 # Ant Design Pro
@@ -93,3 +94,6 @@ Any Contribution of following ways will be welcome:
 - Use Ant Design Pro in your daily work.
 - Submit [issue](http://github.com/ant-design/ant-design-pro/issues) to report bug or ask questions.
 - Propose [pull request](http://github.com/ant-design/ant-design-pro/pulls) to improve our code.
+=======
+# makcent_admin
+>>>>>>> 5dba452983d5e948e9beb00c64f755766f60fe22
